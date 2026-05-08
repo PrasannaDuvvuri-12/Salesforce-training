@@ -1,111 +1,108 @@
-CRM Basics
+# CRM Basics
 
-1. What is CRM
+## 1. What is CRM?
 
-CRM (Customer Relationship Management) is a system used by companies to manage customer data, communication, sales, and support in one place. It helps businesses improve customer relationships and increase productivity.
-
-CRM allows companies to:
-
-Store customer information
-
-Track sales activities
-
-Manage leads and opportunities
-
-Improve customer service
-
-Automate business processes
-
+CRM stands for Customer Relationship Management.  
+It is a technology and strategy used by companies to manage interactions with customers and potential customers. CRM helps businesses store customer data, track sales, improve customer service, and increase business growth.
 
 Examples of CRM platforms:
-
-Salesforce
-
-HubSpot
-
-Zoho CRM
-
-Microsoft Dynamics 365
-
-
+- Salesforce
+- HubSpot
+- Zoho CRM
+- Microsoft Dynamics
 
 ---
 
-2. Why Companies Use Salesforce
+## 2. Why Companies Use Salesforce
 
-Salesforce is one of the most popular cloud-based CRM platforms. Companies use Salesforce because it helps manage customer relationships efficiently.
+Salesforce is one of the most popular cloud-based CRM platforms. Companies use Salesforce because it helps them:
 
-Benefits of Salesforce
+- Manage customer information in one place
+- Track sales and opportunities
+- Improve communication with customers
+- Automate business processes
+- Generate reports and analytics
+- Increase productivity and efficiency
+- Provide better customer support
 
-Cloud-based and accessible anywhere
-
-Easy customer data management
-
-Sales and marketing automation
-
-Better customer support
-
-Real-time reports and dashboards
-
-Secure and scalable platform
-
-Supports business growth
-
-
-Salesforce is widely used in industries such as healthcare, banking, education, retail, and IT.
-
+Salesforce is easy to use, secure, and accessible from anywhere through the cloud.
 
 ---
 
-3. Explain
+## 3. Explain
 
-Account
-
-An Account represents a company, organization, or customer in Salesforce.
+### Account
+An Account represents a company, organization, or customer that a business works with.
 
 Example:
+- ABC Technologies
+- Infosys
+- TCS
 
-Infosys, TCS, or Amazon can be stored as Accounts.
+Accounts store information such as:
+- Company name
+- Address
+- Industry
+- Phone number
 
-Contact
+---
 
+### Contact
 A Contact represents a person associated with an Account.
 
 Example:
+- Employee or manager of a company
+- Customer representative
 
-An employee or manager working in Infosys.
-
-Opportunity
-
-An Opportunity represents a potential sales deal or business opportunity.
+Contacts store details such as:
+- Name
+- Email
+- Phone number
+- Job title
 
 Example:
-
-A company planning to purchase software services from another company.
-
+- Ravi Kumar working at ABC Technologies
 
 ---
 
-4. Real-World Mapping
+### Opportunity
+An Opportunity represents a potential sales deal or business transaction.
 
-Salesforce Object	Real-World Example
+It helps companies track:
+- Sales stage
+- Expected revenue
+- Closing date
+- Deal progress
 
-Account	A company like TCS
-Contact	HR Manager working in TCS
-Opportunity	TCS purchasing a software product
-
-
-Scenario Example
-
-A software company wants to sell its product to TCS.
-
-TCS is stored as an Account
-
-HR Manager of TCS is stored as a Contact
-
-The software deal is stored as an Opportunity
-
-
+Example:
+- Selling software worth ₹50,000 to ABC Technologies
 
 ---
+
+## 4. Real-World Mapping
+
+| Salesforce Object | Real-World Example |
+|------------------|-------------------|
+| Account | A company like Infosys |
+| Contact | An employee working in Infosys |
+| Opportunity | A software deal with Infosys |
+
+Example Scenario:
+A company named "ABC Technologies" wants to buy software services.
+
+- ABC Technologies → Account
+- Rajesh (Manager at ABC Technologies) → Contact
+- Software purchase deal worth ₹1,00,000 → Opportunity
+
+---
+<img width="1907" height="966" alt="home page" src="https://github.com/user-attachments/assets/6a4400e4-8e31-4313-93b7-f6a3b4311f6a" />
+<img width="1887" height="982" alt="contacts and oppurtunities" src="https://github.com/user-attachments/assets/00fb2f7e-e713-483c-97ac-c31b4966ea84" />
+<img width="1882" height="828" alt="accounts" src="https://github.com/user-attachments/assets/35270473-8d05-4a51-b6eb-e7d1eeabf366" />
+
+
+
+
+## Conclusion
+
+CRM helps businesses maintain strong customer relationships and improve sales processes. Salesforce provides powerful tools to manage accounts, contacts, and opportunities efficiently.
 
